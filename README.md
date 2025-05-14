@@ -15,7 +15,6 @@ Bem-vindo ao repositório do **Product Page**, um projeto desenvolvido como test
 - **React**
 - **TypeScript**
 - **Tailwind CSS**
-- **Next.js (opcional, caso esteja usando)**
 - **LocalStorage** (para simular persistência de dados)
 - **API ViaCEP** (consulta de endereço)
 
