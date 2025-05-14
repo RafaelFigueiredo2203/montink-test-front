@@ -6,7 +6,10 @@ Bem-vindo ao repositório do **Product Page**, um projeto desenvolvido como test
 
 ## 📸 Preview
 
-![Test Preview](https://via.placeholder.com/900x500?text=Preview+da+Página+do+Produto)
+![image](https://github.com/user-attachments/assets/c6f67620-69c6-4f70-804b-34dbf04ce408)
+
+
+![Acesse](https://montink-test-front.vercel.app/)
 
 ---
 
